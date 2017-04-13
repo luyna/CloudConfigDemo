@@ -1,2 +1,2 @@
-testkey:test-1.0
-testkey1:test1-1.0
+testkey=test-1.0
+testkey1=test1-1.0
