@@ -1,2 +1,2 @@
-testkey:branch-pre-1.0
-testkey1:branch-pre1-1.0
+testkey=branch-pre-1.0
+testkey1=branch-pre1-1.0
